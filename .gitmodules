@@ -1,0 +1,9 @@
+[submodule "drone-firmware"]
+	path = drone-firmware
+	url = https://github.com/Lachlanric/esp32-drone.git
+[submodule "controller-firmware"]
+	path = controller-firmware
+	url = https://github.com/Lachlanric/remote-controller-drone.git
+[submodule "desktop-client"]
+	path = desktop-client
+	url = https://github.com/Lachlanric/modelviewer.git
